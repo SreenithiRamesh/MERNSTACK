@@ -1,0 +1,60 @@
+.h-centre{
+    text-align: center;
+}
+.main-heading{
+    color: white;
+    font-family:"Roboto", sans-serif;
+    font-style:bold ;
+    font-size: 70px;
+    font-weight:bold;
+}
+.paragraph{
+    color: white;
+    font-family:"Roboto", sans-serif;
+    font-style: bold;
+    font-weight: 600px;
+    margin-top: 55px;
+    font-size: 26px;
+}
+.btn{
+    text-align: center;
+  font-family:"Roboto", sans-serif; 
+  font-size: 35px;
+  font-weight: 600px;
+  color: white;
+   background-color: orange;
+}
+.head2{
+    font-family:"Roboto", sans-serif;
+    font-style:bold ;
+    font-weight: 700px;
+    font-size: 30px;
+    color: white;
+}
+.para2{
+    font-family:"Roboto", sans-serif;
+    font-size: 26px;
+    font-weight: 600px;
+    margin-top: 40px;
+    font-style: bold;
+    color: white;
+}
+.para3{
+    font-family:"Roboto", sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 500px;
+    font-size: 20px;
+    color: white;
+}
+.card{
+    background-image: url("https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523");
+background-repeat: no-repeat;
+    height: 80rem;
+    width: 38rem;
+    background-size: cover;
+}
+.centree{
+    text-align: center;
+    margin-top: 80px;
+}
